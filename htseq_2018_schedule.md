@@ -15,7 +15,7 @@ home: https://bioinformaticsdotca.github.io/htseq_2018
 | 8:30 | <font color="purple">Welcome (Ann)</font> | 8:30 | <font color="purple">Module 4: Small-Variant Calling and Annotation (Mathieu)</font> |
 | 9:00 | <font color="purple">Module 1: Introduction to High-Throughput Sequencing (Jared)</font> | | |
 | 10:00 | <font color="green">*Coffee Break*</font> | 9:30 | <font color="green">*Coffee Break*</font> |
-| 10:30 | <font color="purple">Module 2: Data Visualization (Florence) </font> | 10:00 | <font color="blue">Module 4 Lab</font> |
+| 10:30 | <font color="purple">Module 2: Data Visualization (Hamza) </font> | 10:00 | <font color="blue">Module 4 Lab</font> |
 | 11:30 | <font color="blue">Module 2 Lab</font> | 11:00 | <font color="purple">Module 5: Structural Variant Calling (Mathieu)</font> |
 | 12:30 | <font color="green">*Lunch*</font> | 12:00 | <font color="green">*Lunch*</font> |
 | 1:30 | <font color="purple">Module 3: Genome Alignment (Mathieu) </font> | 1:00 | <font color="blue">Module 5 Lab</font> |
