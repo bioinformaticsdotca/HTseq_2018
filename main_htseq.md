@@ -8,64 +8,86 @@ image: /site_images/CBW_High-throughput_icon.jpg
 ---
 # Welcome <a id="welcome"></a>
 
-Welcome to Informatics on High-Throughput Sequencing Data.  
+Welcome to Informatics on High-Throughput Sequencing Data 2018.  
 
-## Install these tools before the workshop:
+The course schedule can be found [here](https://bioinformaticsdotca.github.io/htseq_2018_schedule).
 
-1) A robust text editor.   
+Pre-readings, pre-work, and laptop setup instructions can be found [here](https://bioinformaticsdotca.github.io/HTseq_2018_prework).  
 
-* For Windows/PC - [notepad++](http://notepad-plus-plus.org/)  
-* For Linux - [gEdit](http://projects.gnome.org/gedit/)  
-* For Mac – [TextWrangler](http://www.barebones.com/products/textwrangler/download.html)
+We are using Google Classroom for discussion. Join the Class at https://classroom.google.com, select the "+" symbol in the upper right corner, click on "Join Class" and enter the class code provided to you.
 
-2) A file decompression tool.  
+The full course notes are available as a [single PDF](https://drive.google.com/a/bioinformatics.ca/file/d/1Wf7-w3Ym3lyYZjYqhEf8kGl0udX90Aww/view?usp=sharing).  
 
-* For Windows/PC – [7zip](http://www.7-zip.org/).  
-* For Linux – [gzip](http://www.gzip.org).   
-* For Mac – already there.
+***
 
-3) A robust internet browser such as Firefox or Safari (Internet Explorer and Chrome are not recommended because of Java issues).
+# Day 1 <a id="day1"></a>
 
-4) Java -The visualization program that we will be using (IGV) requires Java. Check if you have Java installed: https://www.java.com/verify/ and download Java if you do not have it installed (Java 8).  
+## Welcome
 
-5) Integrative Genomics Viewer 2.3 (IGV) - Once java is installed, go to http://www.broadinstitute.org/igv/ and register in order to get access to the downloads page. Once you have gained access to the download page, click on the appropriate launch button that matches the amount of memory available on your laptop (if you have space, 1.2GB is good, more is better).   
+*<font color="#827e9c">Ann Meyer</font>*
 
-**Note** Chrome does not launch "java webstart" files by default. Instead, the launch buttons below will download a "jnlp" file. This should appear in the lower left corner of the browser. Double-click the downloaded file to run.   
+## Module 1: Introduction to High-throughput Sequencing
 
-**Windows users:** To run with more than 1.2 GB you must install 64-bit Java. This is often not installed by default even with the latest Windows 7 machines with many GB of memory. In general trying to launch with more memory than your OS/Java combination supports will result in the obscure error "could not create virtual machine".  
+*<font color="#827e9c">Jared Simpson</font>* 
 
-6) SSH client - Mac and Linux users already have a command line ssh program that can be run from the terminal. For Windows users, please download [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html).  
+[Lecture](https://drive.google.com/open?id=1eHaiJ8eunv-uNIgRYJfLTglYkVSfSasH)
 
-7) SCP/SFTP client - We will be moving data from the servers to the student laptops for visualization. Mac and Linux users already have a command line scp and sftp program. For Windows users, please install [WinSCP](http://winscp.net/eng/download.php).  
 
-8) A PDF viewer (Adobe Acrobat or equivalent).  
+## Module 2: Data Visualization
 
-## Do these tutorials before the workshop
+*<font color="#827e9c">Hamza Farooq</font>* 
 
-1) **R Preparation tutorials**: You are expected to have completed the following tutorials in **R** beforehand. The tutorial should be very accessible even if you have never used **R** before.
+[Lecture](https://drive.google.com/open?id=10e4D0_THqNPWAYodLzolEYyPSuAmdfAi)
 
-* The [CBW R tutorial](http://bioinformatics-ca.github.io/CBW_R_Tutorial/)
-* [Quick and Dirty Guide to **R**](http://ww2.coastal.edu/kingw/statistics/R-tutorials/text/quick&dirty_R.txt)  
-* The [R Tutorial](http://www.cyclismo.org/tutorial/R/) up to and including 5. Basic Plots
-* The [R command cheat sheet](https://github.com/bioinformaticsdotca/bioinformaticsdotca.github.io/blob/master/resources/R_Short-refcard.pdf)
+[Lab Practical](https://bioinformaticsdotca.github.io/HTSeq_2018_module2_lab)
 
-2) **UNIX Preparation tutorials**:  
+## Module 3: Genome Alignment
 
-* [UNIX Bootcamp](http://rik.smith-unna.com/command_line_bootcamp/?id=9xnbkx6eaof)
-* [Unix Cheat sheet](http://www.rain.org/~mkummel/unix.html) 
+*<font color="#827e9c">Mathieu Bourgey</font>* 
 
-3) [Sequencing Terminology](http://www.ncbi.nlm.nih.gov/projects/genome/glossary.shtml)
+[Lecture](https://drive.google.com/open?id=1InxumkyyeofOc45AFA7g--BPhGC-6eLa)
 
-## Before coming to the workshop, read these:
-  
-* [Integrative Genomics Viewer (IGV): high-performance genomics data visualization and exploration](http://www.ncbi.nlm.nih.gov/pubmed/22517427)
-  
-* [Genome structural variation discovery and genotyping](http://www.ncbi.nlm.nih.gov/pubmed/21358748)
-  
-* [A survey of sequence alignment algorithms for next-generation sequencing](http://www.ncbi.nlm.nih.gov/pubmed/20460430)
-  
-* [Genotype and SNP calling from next-generation sequencing data](http://www.ncbi.nlm.nih.gov/pubmed/21587300)
+[Lab Practical: Connecting to the Cloud](http://bioinformaticsdotca.github.io/AWS_setup)
 
-Please note that these instructions may change prior to the workshop.
+[Lecture](https://drive.google.com/open?id=1bXjhM9fqtqbiYnTLCpxXMguPDTptVnkd)  
+
+* We have set up 30 instances on the Amazon cloud - one for each student. In order to log in to your instance, you will need a security certificate. If you plan on using Linux or Mac OS X, please download [this certificate](http://cbw46.dyndns.info/private/CBWNY.pem). Otherwise if you plan on using Windows (with Putty and Winscp), please download [this certificate](http://cbw46.dyndns.info/private/CBWNY.ppk).
+
+[Lab Practical](https://bioinformaticsdotca.github.io/htseq_2018_module3_lab)  
+
+## Integrated Assignment
+
+[Integrated Assignment](https://bioinformaticsdotca.github.io/HTSeq_2018_IA_lab)  
+
+***
+
+# Day 2 <a id="day2"></a>
+
+## Module 4: Small-Variant Calling and Annotation
+
+*<font color="#827e9c">Mathieu Bourgey</font>* 
+
+[Lecture]()
+
+[Lab Practical](https://drive.google.com/open?id=1GTAARZ4P-NiXC4efci--x7qgsFlpuSg5)  
+
+## Module 5: Structural Variant Calling
+
+*<font color="#827e9c">Mathieu Bourgey</font>* 
+
+[Lecture](https://drive.google.com/open?id=1DFvjqo33XJIS6zHv452IiFbjS1iM589O)
+
+[Lab Practical](https://bioinformaticsdotca.github.io/htseq_2018_module5_lab)  
+
+## Module 6: De Novo Assembly
+
+*<font color="#827e9c">Jared Simpson</font>* 
+
+[Lecture](https://drive.google.com/open?id=1sNvp8ZqluIW5k_dFfKhR6RYlTwXs_8Bp)
+
+[Lab Practical](https://bioinformaticsdotca.github.io/HTSeq_2018_module6_lab)
+
+[Supplemental](https://bioinformaticsdotca.github.io/HTSeq_2018_module6_lab_supplement)
+
   
   
