@@ -51,7 +51,7 @@ The full course notes are available as a [single PDF](https://drive.google.com/a
 
 [Lecture](https://drive.google.com/open?id=1bXjhM9fqtqbiYnTLCpxXMguPDTptVnkd)  
 
-* We have set up 30 instances on the Amazon cloud - one for each student. In order to log in to your instance, you will need a security certificate. If you plan on using Linux or Mac OS X, please download [this certificate](http://cbw46.dyndns.info/private/CBWNY.pem). Otherwise if you plan on using Windows (with Putty and Winscp), please download [this certificate](http://cbw46.dyndns.info/private/CBWNY.ppk).
+* We have set up 30 instances on the Amazon cloud - one for each student. In order to log in to your instance, you will need a security certificate. If you plan on using Linux or Mac OS X, please download [this certificate](http://main.oicrcbw.ca/private/CBWNY.pem). Otherwise if you plan on using Windows (with Putty and Winscp), please download [this certificate](http://main.oicrcbw.ca/private/CBWNY.ppk).
 
 [Lab Practical](https://bioinformaticsdotca.github.io/htseq_2018_module3_lab)  
 
