@@ -67,9 +67,9 @@ The full course notes are available as a [single PDF](https://drive.google.com/a
 
 *<font color="#827e9c">Mathieu Bourgey</font>* 
 
-[Lecture]()
+[Lecture](https://drive.google.com/open?id=1GTAARZ4P-NiXC4efci--x7qgsFlpuSg5)
 
-[Lab Practical](https://drive.google.com/open?id=1GTAARZ4P-NiXC4efci--x7qgsFlpuSg5)  
+[Lab Practical](https://bioinformaticsdotca.github.io/htseq_2018_module4_lab)  
 
 ## Module 5: Structural Variant Calling
 
