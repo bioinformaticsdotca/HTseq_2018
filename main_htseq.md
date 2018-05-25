@@ -95,5 +95,11 @@ The full course notes are available as a [single PDF](https://drive.google.com/a
 
 [Supplemental](https://bioinformaticsdotca.github.io/HTSeq_2018_module6_lab_supplement)
 
+***
+
+Thank you for attending the Informatics on High-Throughput Sequencing Data workshop! Help us make this workshop better by filling out [our survey](https://docs.google.com/forms/d/e/1FAIpQLScePneLjG1TPQ4OPrHz9cWwmnk7LdgYyGsQqaEIUFoQLKFodg/viewform?usp=sf_link).
+
+***
+
   
   
