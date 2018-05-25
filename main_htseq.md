@@ -20,6 +20,12 @@ The full course notes are available as a [single PDF](https://drive.google.com/a
 
 ***
 
+# Class Photo
+ 
+<img src="https://github.com/bioinformaticsdotca/HTseq_2018/blob/master/DSC_0609.jpg?raw=true" alt="Class Photo" width="750" />
+
+***
+
 # Day 1 <a id="day1"></a>
 
 ## Welcome
