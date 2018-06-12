@@ -38,12 +38,16 @@ The full course notes are available as a [single PDF](https://drive.google.com/a
 
 [Lecture](https://drive.google.com/open?id=1eHaiJ8eunv-uNIgRYJfLTglYkVSfSasH)
 
+[Recording](https://www.youtube.com/watch?v=i_rmfqxGBWk&index=2&list=PL3izGL6oi0S9iqPK0668I7bKPe-YUj4nc&t=0s)
+
 
 ## Module 2: Data Visualization
 
 *<font color="#827e9c">Hamza Farooq</font>* 
 
 [Lecture](https://drive.google.com/open?id=10e4D0_THqNPWAYodLzolEYyPSuAmdfAi)
+
+[Recording](https://www.youtube.com/watch?v=woKXw1R8LMA&index=3&list=PL3izGL6oi0S9iqPK0668I7bKPe-YUj4nc&t=0s)
 
 [Lab Practical](https://bioinformaticsdotca.github.io/HTSeq_2018_module2_lab)
 
@@ -52,6 +56,8 @@ The full course notes are available as a [single PDF](https://drive.google.com/a
 *<font color="#827e9c">Mathieu Bourgey</font>* 
 
 [Lecture](https://drive.google.com/open?id=1InxumkyyeofOc45AFA7g--BPhGC-6eLa)
+
+[Recording](https://www.youtube.com/watch?v=f3vJ8lvMdZQ&index=4&list=PL3izGL6oi0S9iqPK0668I7bKPe-YUj4nc&t=0s)
 
 [Lab Practical: Connecting to the Cloud](http://bioinformaticsdotca.github.io/AWS_setup)
 
@@ -75,6 +81,8 @@ The full course notes are available as a [single PDF](https://drive.google.com/a
 
 [Lecture](https://drive.google.com/open?id=1GTAARZ4P-NiXC4efci--x7qgsFlpuSg5)
 
+[Recording](https://www.youtube.com/watch?v=2-mQO6rM2No&index=5&list=PL3izGL6oi0S9iqPK0668I7bKPe-YUj4nc&t=696s)
+
 [Lab Practical](https://bioinformaticsdotca.github.io/htseq_2018_module4_lab)  
 
 ## Module 5: Structural Variant Calling
@@ -83,6 +91,8 @@ The full course notes are available as a [single PDF](https://drive.google.com/a
 
 [Lecture](https://drive.google.com/open?id=1DFvjqo33XJIS6zHv452IiFbjS1iM589O)
 
+[Recording](https://www.youtube.com/watch?v=uygFNrG5wAA&index=6&list=PL3izGL6oi0S9iqPK0668I7bKPe-YUj4nc&t=0s)
+
 [Lab Practical](https://bioinformaticsdotca.github.io/htseq_2018_module5_lab)  
 
 ## Module 6: De Novo Assembly
@@ -90,6 +100,8 @@ The full course notes are available as a [single PDF](https://drive.google.com/a
 *<font color="#827e9c">Jared Simpson</font>* 
 
 [Lecture](https://drive.google.com/open?id=1sNvp8ZqluIW5k_dFfKhR6RYlTwXs_8Bp)
+
+[Recording](https://www.youtube.com/watch?v=Yy_LqYXVFXA&index=7&list=PL3izGL6oi0S9iqPK0668I7bKPe-YUj4nc&t=0s)
 
 [Lab Practical](https://bioinformaticsdotca.github.io/HTSeq_2018_module6_lab)
 
