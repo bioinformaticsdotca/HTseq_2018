@@ -5,6 +5,10 @@ title: HTseq
 header1: Workshop Pages for Students
 header2: Informatics on High-Throughput Sequencing Data
 image: /site_images/CBW_High-throughput_icon.jpg
+keywords: Map sequence data, De Novo assembly tasks, Quantify sequence data
+description: Course covers the bioinformatics tools available for managing and interpreting high-throughput sequencing data, where the focus is on Illumina reads although information is applicable to all sequencer reads. 
+instructors: Jared Simpson, Mathieu Bourgey, Hamza Farooq
+length: 2 days
 ---
 # Welcome <a id="welcome"></a>
 
