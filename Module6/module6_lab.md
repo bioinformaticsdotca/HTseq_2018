@@ -6,6 +6,9 @@ header1: Workshop Pages for Students
 header2: Informatics on High-Throughput Sequencing Data
 image: /site_images/CBW_High-throughput_icon.jpg
 home: https://bioinformaticsdotca.github.io/htseq_2018
+description: HTSeq Lab 6
+author: Jared Simpson
+modified: May 26th, 2018
 ---
 
 # Genome Assembly for short and long reads
