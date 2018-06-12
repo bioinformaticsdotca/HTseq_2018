@@ -6,6 +6,9 @@ header1: Workshop Pages for Students
 header2: Informatics on High-Throughput Sequencing Data
 image: /site_images/CBW_High-throughput_icon.jpg
 home: https://bioinformaticsdotca.github.io/htseq_2018
+description: HtSeq Lab 2
+author: Sorana Morrissy and Florence Cavalli
+modified: May 25, 2018
 ---
 
 # CBW HT-seq Module 2 - IGV lab
